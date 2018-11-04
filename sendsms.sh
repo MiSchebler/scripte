@@ -7,6 +7,7 @@
 ## Desc:	Script zum Versenden von Massen SMS
 ##
 ##########
+
 ### Config ###
 sc=`basename $0 .sh`
 s_path=/srv/app/$sc
